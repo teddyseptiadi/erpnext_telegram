@@ -1,4 +1,4 @@
-## Erpnext Telegram
+## Send Custom ERPNext Orders to Telegram
 
 ERPNext Telegram Integration
 
